@@ -1,0 +1,30 @@
+{
+    "name": "py-snippets",
+    "displayName": "py-snippets",
+    "description": "This extension provides you with common python code snippets to make your coding faster. This imports all the code snippets provided by IntelliJ PyCharm to VS Code. ",
+    "version": "1.0.0",
+    "publisher": "RTG",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/microsoft/pylance-release"
+	},
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "python",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "python",
+                "path": "./snippets/py-script.json"
+            }
+        ]
+    }
+}

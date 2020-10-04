@@ -1,0 +1,7 @@
+{
+    "for loop": {
+        "prefix": ["for"],
+        "body": ["for ${1:item} in ${2:list}"],
+        "description": ["Sample snippet to create a for loop"]
+    }
+}
