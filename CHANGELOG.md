@@ -6,6 +6,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.0.1] - 2020-10-08
+### Addded
+- Correct repo details to the package.json file
+- Added snippet for for-else for a list
+- Added snippet for if/else
+- Added snippet for elif block
+- Code snippet for if main block
+
 ## [1.0.0] - 2020-10-04
 
 ### Addded
