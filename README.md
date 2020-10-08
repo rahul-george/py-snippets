@@ -6,7 +6,12 @@ Listed below are ways to use the auto complete feature.
 
 ## Features
 
-More details coming up here soon!!
+Code snippets for the following actions: 
+    - for loop with a list
+    - if __name__ == "__main__": block
+    - for-else
+    - if-else 
+    - elif block
 
 
 ## Requirements
@@ -30,7 +35,17 @@ No known issues
 
 ## Release Notes
 
-### 1.0.0
+## [1.0.1] - 2020-10-08
 
-Initial release, only code snippets for auto generating for-loop with this release
+### Addded
+- Correct repo details to the package.json file
+- Added snippet for for-else for a list
+- Added snippet for if/else
+- Added snippet for elif block
+- Code snippet for if main block
+
+## [1.0.0] - 2020-10-04
+
+### Addded
+- For loop added to code snippets
 
