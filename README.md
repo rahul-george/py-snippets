@@ -7,11 +7,12 @@ Listed below are ways to use the auto complete feature.
 ## Features
 
 Code snippets for the following actions: 
-    - for loop with a list
-    - if __name__ == "__main__": block
-    - for-else
-    - if-else 
-    - elif block
+
+    * for loop with a list
+    * if __name__ == "__main__": block
+    * for-else
+    * if-else 
+    * elif block
 
 
 ## Requirements
